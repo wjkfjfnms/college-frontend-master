@@ -1,6 +1,1 @@
-Hello world!
-
-Add new context!
-
-change the file!
-i change it.
+这是”校园赛事活动管理系统“的前端代码
